@@ -1,0 +1,16 @@
+C:\Users\Александр Eкимовских\source\repos\Bulb\Bulb\bin\Debug\Bulb.exe.config
+C:\Users\Александр Eкимовских\source\repos\Bulb\Bulb\bin\Debug\Bulb.exe
+C:\Users\Александр Eкимовских\source\repos\Bulb\Bulb\bin\Debug\Bulb.pdb
+C:\Users\Александр Eкимовских\source\repos\Bulb\Bulb\obj\Debug\Bulb.csproj.AssemblyReference.cache
+C:\Users\Александр Eкимовских\source\repos\Bulb\Bulb\obj\Debug\MainWindow.g.cs
+C:\Users\Александр Eкимовских\source\repos\Bulb\Bulb\obj\Debug\App.g.cs
+C:\Users\Александр Eкимовских\source\repos\Bulb\Bulb\obj\Debug\Bulb_MarkupCompile.cache
+C:\Users\Александр Eкимовских\source\repos\Bulb\Bulb\obj\Debug\Bulb_MarkupCompile.lref
+C:\Users\Александр Eкимовских\source\repos\Bulb\Bulb\obj\Debug\MainWindow.baml
+C:\Users\Александр Eкимовских\source\repos\Bulb\Bulb\obj\Debug\Bulb.g.resources
+C:\Users\Александр Eкимовских\source\repos\Bulb\Bulb\obj\Debug\Bulb.Properties.Resources.resources
+C:\Users\Александр Eкимовских\source\repos\Bulb\Bulb\obj\Debug\Bulb.csproj.GenerateResource.cache
+C:\Users\Александр Eкимовских\source\repos\Bulb\Bulb\obj\Debug\Bulb.csproj.CoreCompileInputs.cache
+C:\Users\Александр Eкимовских\source\repos\Bulb\Bulb\obj\Debug\Bulb.exe
+C:\Users\Александр Eкимовских\source\repos\Bulb\Bulb\obj\Debug\Bulb.pdb
+C:\Users\Александр Eкимовских\source\repos\Bulb\Bulb\obj\Debug\App.baml
